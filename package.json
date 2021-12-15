@@ -1,16 +1,11 @@
 {
-  "name": "dbmanager",
+  "name": "test-task",
   "version": "1.0.0",
-  "description": "crud operation in mongoDB & MySql",
-  "main": "index.js",
+  "description": "text corrector",
+  "main": "server.js",
   "scripts": {
     "dev": "nodemon back/server/server.js"
   },
-  "keywords": [
-    "mongodb",
-    "mysql",
-    "dbmanager"
-  ],
   "author": "Maksim Susharnik",
   "license": "ISC",
   "dependencies": {
